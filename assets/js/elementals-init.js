@@ -1,7 +1,7 @@
 /*!-----------------------------------------------------------------
-   Name: Elementals
+   Name: Elementum Knights
     Version: 1.0
-    Author: Elementals
+    Author: Elementum Knights
     Website:  
 -------------------------------------------------------------------*/
     /******/ (function(modules) { // webpackBootstrap
@@ -101,7 +101,7 @@ var options = {
         likeAnimationLiked: 'Liked!',
         likeAnimationDisliked: 'Disliked!',
 
-        cookieAlert: '<span class="nk-cookie-alert-close"><span class="nk-icon-close"></span></span>\n          The Elemental GOD request cookies. <a href="#">Cookies policy</a>.\n            <div class="nk-gap"></div>\n            <span class="nk-cookie-alert-confirm nk-btn link-effect-4 nk-btn-bg-white nk-btn-color-dark-1">Confirm</span>',
+        cookieAlert: '<span class="nk-cookie-alert-close"><span class="nk-icon-close"></span></span>\n          Your Elementum King request cookies. <a href="#">Cookies policy</a>.\n            <div class="nk-gap"></div>\n            <span class="nk-cookie-alert-confirm nk-btn link-effect-4 nk-btn-bg-white nk-btn-color-dark-1">Confirm</span>',
 
         plainVideoIcon: '<span class="nk-video-icon"><i class="fa fa-play pl-5"></i></span>',
         plainVideoLoadIcon: '<span class="nk-loading-spinner"><i></i></span>',

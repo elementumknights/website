@@ -1,7 +1,7 @@
 /*!-----------------------------------------------------------------
-    Name: Elementals
+    Name: Elementum Knights
     Version: 1.0
-    Author: Elementals
+    Author: Elementum Knights
     Website:  
 -------------------------------------------------------------------*/
     /******/ (function(modules) { // webpackBootstrap
